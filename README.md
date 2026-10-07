@@ -25,7 +25,7 @@ con motor propio y texto en chino tradicional.
    | SHA-1 | `1d866a8bcab96c2a957c5ffdc4f4028cbda7827d` |
 
 2. Aplica `Mingzhu-Koudai-Guaishou-2-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips), [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
-3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `F9132EC7`.
+3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `025E219B`.
 
 Probado en **mGBA** y **PyBoy**. En flashcarts o emuladores muy antiguos que no soporten ROM de 4 MB con MBC5 puede no funcionar.
 
@@ -35,6 +35,10 @@ Versión jugable. Revisadas: menús, selección de personaje, historia, diálogo
 Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con una captura.
 
 ## Cambios
+
+**7-oct-2026 (v1.2, ataques)**
+- Ataques Pokémon con su nombre oficial en español: Cuchillada, Niebla, Rayo Burbuja, Confusión, Clavo Cañón, Bomba Lodo, Chupavidas, Doble Patada y Derribo.
+- Ataques Digimon corregidos según el ataque oficial: Hipercañón (Tankmon), Fuego Mágico (Biyomon), Chispa Martillo (Zudomon), Granada DST (Guardromon) y Tijera Ejecutora (Ganimon).
 
 **7-oct-2026 (revisión)**
 - Diálogos de las bayas con los mismos nombres que los objetos (Baya Roja, Azul, Lima, Plata y Oro) y concordancia de género corregida.
