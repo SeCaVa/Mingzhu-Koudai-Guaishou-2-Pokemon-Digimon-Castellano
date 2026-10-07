@@ -25,15 +25,24 @@ con motor propio y texto en chino tradicional.
    | SHA-1 | `1d866a8bcab96c2a957c5ffdc4f4028cbda7827d` |
 
 2. Aplica `Mingzhu-Koudai-Guaishou-2-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips), [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
-3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `62F0A6A4`.
+3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `F9132EC7`.
 
 Probado en **mGBA** y **PyBoy**. En flashcarts o emuladores muy antiguos que no soporten ROM de 4 MB con MBC5 puede no funcionar.
 
 ## Estado
 
-Versión jugable. Revisadas: menús, selección de personaje, historia, diálogos, batalla, estado, objetos y evolución.
-Pendiente de revisar a fondo: mensajes de objeto sueltos, final y créditos, y algunos nombres de Digimon dudosos.
+Versión jugable. Revisadas: menús, selección de personaje, historia, diálogos, batalla, estado, objetos, evolución y final.
 Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con una captura.
+
+## Cambios
+
+**7-oct-2026 (revisión)**
+- Diálogos de las bayas con los mismos nombres que los objetos (Baya Roja, Azul, Lima, Plata y Oro) y concordancia de género corregida.
+- Frases corregidas o más naturales en varios diálogos, incluida una variante neutra para las protagonistas.
+- DemiDevimon y Pumpkinmon con el nombre usado en España (antes Picodevimon y Pumpmon).
+- Coherencia entre combate, objetos y diálogos: Tajo Ala Sombra, Arm. Prot., Montes File.
+- Gráfico de victoria: «VICTORIA» en una sola línea y centrado.
+- Última frase del final más fiel al original.
 
 ## Créditos
 
