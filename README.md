@@ -12,7 +12,7 @@ con motor propio y texto en chino tradicional.
 - Toda la historia y los diálogos de los cinco protagonistas (versión masculina y femenina de los rótulos).
 - Nombres de Pokémon con su nombre oficial en español y de Digimon con el nombre usado en España.
 - Fuente propia proporcional (no comercial), con tildes, `¿` `¡` y `ñ`.
-- Logo del título.
+- Logo del título y pantalla de fin del juego.
 
 ## Cómo aplicar el parche
 
@@ -25,7 +25,7 @@ con motor propio y texto en chino tradicional.
    | SHA-1 | `1d866a8bcab96c2a957c5ffdc4f4028cbda7827d` |
 
 2. Aplica `Mingzhu-Koudai-Guaishou-2-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips), [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
-3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `72781F22`.
+3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `A7DDB7D5`.
 
 Probado en **mGBA** y **PyBoy**. En flashcarts o emuladores muy antiguos que no soporten ROM de 4 MB con MBC5 puede no funcionar.
 
@@ -35,6 +35,13 @@ Versión jugable. Revisadas: menús, selección de personaje, historia, diálogo
 Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con una captura.
 
 ## Cambios
+
+**8-oct-2026 (v1.4)**
+- Pantalla de traducción tras el logo de SPEED, con su sintonía (A, B o START la saltan).
+- «GAME OVER» pasa a «FIN DEL JUEGO», con las mismas letras metálicas.
+- Nombres de quien habla bien alineados con el texto, con los dos puntos en su sitio.
+- La «S» de PS, más gruesa y legible.
+- Varias frases más naturales («¡Ha aparecido el Rey Demonio!», «¡Encontré a…!», etc.) y «Coges» en vez de «Hallas» al recoger objetos.
 
 **7-oct-2026 (v1.3, título)**
 - El logo del título pasa a «POCKET MINGZHU II», fiel al original 明珠口袋怪兽II (antes «DIGIMON D-4»).
@@ -53,5 +60,5 @@ Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con
 
 ## Créditos
 
-- Traducción, herramientas e ingeniería inversa del formato de texto: SeCaVa, con ayuda de Claude (Anthropic).
+- Traducción, herramientas e ingeniería inversa del formato de texto: SeCaVa.
 - Juego original: Mingzhu (bootleg sin licencia). Pokémon y Digimon son marcas de sus respectivos dueños.
