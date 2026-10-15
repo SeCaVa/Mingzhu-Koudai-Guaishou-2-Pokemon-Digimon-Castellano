@@ -25,7 +25,7 @@ con motor propio y texto en chino tradicional.
    | SHA-1 | `1d866a8bcab96c2a957c5ffdc4f4028cbda7827d` |
 
 2. Aplica `Mingzhu-Koudai-Guaishou-2-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips), [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
-3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `A7DDB7D5`.
+3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `776014AC`.
 
 Probado en **mGBA** y **PyBoy**. En flashcarts o emuladores muy antiguos que no soporten ROM de 4 MB con MBC5 puede no funcionar.
 
