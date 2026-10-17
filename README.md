@@ -37,7 +37,6 @@ Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con
 ## Cambios
 
 **8-oct-2026 (v1.4)**
-- Pantalla de traducción tras el logo de SPEED, con su sintonía (A, B o START la saltan).
 - «GAME OVER» pasa a «FIN DEL JUEGO», con las mismas letras metálicas.
 - Nombres de quien habla bien alineados con el texto, con los dos puntos en su sitio.
 - La «S» de PS, más gruesa y legible.
