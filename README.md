@@ -36,16 +36,16 @@ Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con
 
 ## Cambios
 
-**8-oct-2026 (v1.4)**
+**8-oct-2026 (v0.5)**
 - «GAME OVER» pasa a «FIN DEL JUEGO», con las mismas letras metálicas.
 - Nombres de quien habla bien alineados con el texto, con los dos puntos en su sitio.
 - La «S» de PS, más gruesa y legible.
 - Varias frases más naturales («¡Ha aparecido el Rey Demonio!», «¡Encontré a…!», etc.) y «Coges» en vez de «Hallas» al recoger objetos.
 
-**7-oct-2026 (v1.3, título)**
+**7-oct-2026 (v0.4, título)**
 - El logo del título pasa a «POCKET MINGZHU II», fiel al original 明珠口袋怪兽II (antes «DIGIMON D-4»).
 
-**7-oct-2026 (v1.2, ataques)**
+**7-oct-2026 (v0.3, ataques)**
 - Ataques Pokémon con su nombre oficial en español: Cuchillada, Niebla, Rayo Burbuja, Confusión, Clavo Cañón, Bomba Lodo, Chupavidas, Doble Patada y Derribo.
 - Ataques Digimon corregidos según el ataque oficial: Hipercañón (Tankmon), Fuego Mágico (Biyomon), Chispa Martillo (Zudomon), Granada DST (Guardromon) y Tijera Ejecutora (Ganimon).
 
