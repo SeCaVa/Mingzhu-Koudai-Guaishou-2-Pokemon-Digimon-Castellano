@@ -32,7 +32,8 @@ Probado en **mGBA** y **PyBoy**. En flashcarts o emuladores muy antiguos que no 
 ## Estado
 
 Versión jugable. Revisadas: menús, selección de personaje, historia, diálogos, batalla, estado, objetos, evolución y final.
-Si encuentras texto raro, cortado o con símbolos extraños, abre un *issue* con una captura.
+Si encuentras texto raro, cortado o con símbolos extraños, rellena el [formulario de fallos](https://github.com/SeCaVa/Mingzhu-Koudai-Guaishou-2-Pokemon-Digimon-Castellano/issues/new?template=fallo.yml).
+Pide versión, emulador, zona y captura, y así puedo arreglarlo sin preguntarte nada más.
 
 ## Cambios
 
