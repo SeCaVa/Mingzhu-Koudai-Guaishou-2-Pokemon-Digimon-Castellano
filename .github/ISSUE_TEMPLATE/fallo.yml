@@ -44,6 +44,12 @@ body:
     validations:
       required: true
   - type: input
+    id: crc_base
+    attributes:
+      label: CRC32 de tu ROM antes de parchear (si lo sabes)
+      description: "Debe ser F1F794DA: el volcado [Fixed-2]. Con otro volcado el parche no funciona bien. El parcheador web y Rom Patcher JS lo enseñan al cargar la ROM."
+      placeholder: "F1F794DA"
+  - type: input
     id: crc
     attributes:
       label: CRC32 de tu ROM parcheada (si lo sabes)
