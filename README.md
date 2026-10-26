@@ -24,6 +24,9 @@ con motor propio y texto en chino tradicional.
    | CRC32 | `F1F794DA` |
    | SHA-1 | `1d866a8bcab96c2a957c5ffdc4f4028cbda7827d` |
 
+   Es el volcado «[Fixed-2]» del cartucho, conservado por un coleccionista. Con otro volcado
+   (CRC32 distinto de `F1F794DA`) el parche no funcionará bien. Rom Patcher JS enseña el CRC32 antes de parchear.
+
 2. Aplica `Mingzhu-Koudai-Guaishou-2-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips), [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
 3. El resultado es una ROM de **4 MB** (la ampliación guarda los glifos nuevos) con CRC32 `776014AC`.
 
